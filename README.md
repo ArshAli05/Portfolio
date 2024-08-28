@@ -1,12 +1,4 @@
 # Personal-Portfolio
-
-### Website Layout
-
-
-https://user-images.githubusercontent.com/74411873/145658790-95f3c433-8a92-4339-b96c-77777e7d5842.mp4
-
-
-
 ### How to go about
 This is the basic layout of the website where things need to be replaced with your data and credentials, follow these easy steps given down below to get your website working: 
 
